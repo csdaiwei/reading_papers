@@ -30,8 +30,17 @@
 ##### Optimizations
 ##### Metric Learning
 ##### Topic Modeling
+##### NLP
 
 <br/>
 
 ### Books
+
+features todo
+精读、泛读、实现
+小评
+想读
+想做相关工作
+
+
 
