@@ -1,6 +1,6 @@
-# reading_papers
+# Papers at my use
 
-### Papers at A. 2017.07-
+#### At A. 2017/07
 ##### Sequential, Attention, CTR
 
 	DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks
@@ -9,7 +9,7 @@
 
 <br/>
 
-### Papers at T. 2017.04-06
+#### At T. 2017/04 - 2017/06
 ##### Deep CTR, Word2vec, FM
 	
 	Wide & Deep Learning for Recommender Systems	Implemented.
