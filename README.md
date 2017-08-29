@@ -1,11 +1,17 @@
 
 
 ### At A. 2017/07
-##### Sequential, Attention, CTR
+##### Sequential, Attention, CTR, Network Representation Learning
 
 	DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks
 	Attention Is All You Need
 	Convotional Sequence to Sequence Learning 
+	
+	Deep Learning based Recommender System: A Survey and New Perspectives
+	
+	DeepWalk: Online Learning of Social Representations
+	node2vec: Scalable Feature Learning for Networks
+	Max-Margin DeepWalk: Discriminative Learning of Network Representation
 
 <br/>
 
