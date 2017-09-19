@@ -1,4 +1,10 @@
+### At NJU. 2017/09 - 
+	
+	deepfm
 
+
+
+<br/>
 
 ### At A. 2017/07 - 2017/09
 ##### Sequential, Attention, CTR, Network Representation Learning
