@@ -1,6 +1,6 @@
 
 
-### At A. 2017/07
+### At A. 2017/07 - 2017/09
 ##### Sequential, Attention, CTR, Network Representation Learning
 
 	DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks
@@ -12,6 +12,10 @@
 	DeepWalk: Online Learning of Social Representations
 	node2vec: Scalable Feature Learning for Networks
 	Max-Margin DeepWalk: Discriminative Learning of Network Representation
+	GraRep:Learning Graph Representations with Global Structural Information
+	Network Representation Learning with Rich Text Information
+	Neural Word Embedding as Implict Matrix Factorization
+	
 
 <br/>
 
