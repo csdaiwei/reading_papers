@@ -1,6 +1,7 @@
 ### At NJU. 2017/09 - 
 	
 	deepfm
+	fnn/pnn
 	nfm
 	afm
 
