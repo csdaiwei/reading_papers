@@ -28,14 +28,14 @@
 
 <br/>
 
-**123**
+
 
 ### At T. 2017/04 - 2017/06
 ##### Deep CTR, Word2vec, FM
 	
-	**Wide & Deep Learning for Recommender Systems**	Implemented.
+	__Wide & Deep Learning for Recommender Systems__	Implemented.
 	
-	**Deep Neural Networks for Youtube Recommendations**
+	Deep Neural Networks for Youtube Recommendations
 	Learning over multi-field Categorical Data - A Case Study on User Response Prediction
 	Deep CTR prediction in Display Advertising
 	Field-aware Factorization Machines for CTR Prediction
