@@ -1,4 +1,8 @@
-### At NJU. 2017/09 - 
+### At NJU. 2017/09 - 2018/06
+	
+	Adaptive Scaling for Sparse Detection in Information Extraction
+	LOF: Identifying Density-Based Local Outliers
+	Isolation Forest
 	
 	deepfm
 	fnn/pnn
