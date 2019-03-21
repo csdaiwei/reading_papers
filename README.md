@@ -76,12 +76,17 @@
 	
 	
 ##### Metric Learning
-##### Topic Modeling
-##### NLP
+	Metric Learning: A Survey By Brian Kulis
+	Distance Metric Learning for Large Margin Nearest Neighbor Classification
+	Information-Theoretic Metric Learning
+	Distance Metric Learning: A Comprehensive Survey. Liu Yang. Rong Jin.
+	
+##### Topic Modeling & NLP
+
 ##### Miscellaneous
 	XGBoost: A Scalable Tree Boosting System
 	Exploratory Undersampling for Class-Imbalance Learning
-	
+		
 <br/>
 
 ### Books
