@@ -53,15 +53,31 @@
 ### 2016 and earlier
 ##### Deep Learning
 ##### Optimizations
+	
+	Asynchronous Distributed Semi-Stochastic Gradient Optimization
+	Accelerating Stochastic Gradient Descent using Predictive Variance Reduction
+	Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers
+	On the Duality Gap Convergence of ADMM Methods
+	Proximal Algorithms
+	Stochastic Dual Coordinate Ascent Methods for Regularized Loss Minimization
+	
+	Lagrange Multipliers without Permanent Scarring
+	Lagrange Multipliers and the Karush-Kuhn-Tucker conditions
+	
+	
 ##### Metric Learning
 ##### Topic Modeling
 ##### NLP
-
+##### Miscellaneous
+	XGBoost: A Scalable Tree Boosting System
+	Exploratory Undersampling for Class-Imbalance Learning
+	
 <br/>
 
 ### Books
 
 features todo
+
 精读、泛读、实现
 小评
 想读
