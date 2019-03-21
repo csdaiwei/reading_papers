@@ -52,6 +52,16 @@
 
 ### 2016 and earlier
 ##### Deep Learning
+	CNN for Dummies. Jianxin Wu
+	Deep learning Review. Nature
+	On Optimization Methods for Deep Learning
+	The Loss Surfaces of Multilayer Networks
+	ImageNet Classification with Deep Convolutional Neural Networks
+	
+	Rich feature hierarchies for accurate object detection and semantic segmentation
+	Fast R-CNN
+	
+	
 ##### Optimizations
 	
 	Asynchronous Distributed Semi-Stochastic Gradient Optimization
